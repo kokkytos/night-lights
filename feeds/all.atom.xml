@@ -2,17 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Μοντέλα αστικής εξάπλωσης και παρακολούθηση με τηλεπισκόπηση</title><link href="https://phd.geographer.gr/" rel="alternate"></link><link href="https://phd.geographer.gr/feeds/all.atom.xml" rel="self"></link><id>https://phd.geographer.gr/</id><updated>2020-12-17T00:00:00+02:00</updated><entry><title>Η διδακτορική διατριβή</title><link href="https://phd.geographer.gr/phd-thesis.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/phd-thesis.html</id><content type="html">&lt;p&gt;&lt;strong&gt;Υποψήφιος διδάκτορας&lt;/strong&gt;: Λεωνίδας Λιάκος&lt;/p&gt;
 &lt;p&gt;Πανεπιστήμιο Θεσσαλίας, Τμήμα Μηχανικών Χωροταξίας, Πολεοδομίας και Περιφερειακής Ανάπτυξης&lt;/p&gt;
 &lt;p&gt;Η τρέχουσα ιστοσελίδα αποτελεί συνοδευτικό υλικό για την διδακτορική διατριβή &lt;strong&gt;"Μοντέλα αστικής εξάπλωσης και παρακολούθηση με τηλεπισκόπηση"&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Αποτελεί κατά κύριο λόγο έναν συνοπτικό οδηγό και κατάλογο των αποτελεσμάτων της έρευνας (δημοσιεύσεων, workshop και αποθετηρίων κώδικα).&lt;/p&gt;</content><category term="Γενικά"></category></entry><entry><title>Δημοσιέσεις-Συνέδρια</title><link href="https://phd.geographer.gr/publications.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/publications.html</id><content type="html">&lt;p&gt;Stathakis, D., &amp;amp; Liakos, L. (2020). Median Shift Lunar Correction for VIIRS. IEEE Geoscience and Remote Sensing Letters, 1–5. https://doi.org/10.1109/LGRS.2020.3007965&lt;/p&gt;
+&lt;p&gt;Αποτελεί κατά κύριο λόγο έναν συνοπτικό οδηγό και κατάλογο των αποτελεσμάτων της έρευνας (δημοσιεύσεων, workshop και αποθετηρίων κώδικα).&lt;/p&gt;</content><category term="Γενικά"></category></entry><entry><title>Δημοσιέσεις-Συνέδρια</title><link href="https://phd.geographer.gr/publications.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/publications.html</id><content type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Stathakis, D., &amp;amp; Liakos, L. (2020). Median Shift Lunar Correction for VIIRS. IEEE Geoscience and Remote Sensing Letters, 1–5. https://doi.org/10.1109/LGRS.2020.3007965&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Stathakis, D. N., &amp;amp; Liakos, L. (2020). Time series formation based on VIIRS 24h data. In N. Chrysoulakis, T. Erbertseder, &amp;amp; Y. Zhang (Eds.), Remote Sensing Technologies and Applications in Urban Environments V (p. 17). SPIE. https://doi.org/10.1117/12.2574346&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Stathakis, D., Baltas, P., &amp;amp; Liakos, L. (2019, July 1). Preprocessing Very High Temporal Resolution Night-Lights Data For Noise Removal. 39th Annual EARSeL Symposium.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Stathakis, D., &amp;amp; Liakos, L. (2019a). Further adjustment of the Defense Meteorological Satellite Program—Operational Linescan System using radar data. Journal of Applied Remote Sensing, 13(03), 1. https://doi.org/10.1117/1.JRS.13.034507&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Stathakis, D., &amp;amp; Liakos, L. (2019b). VIIRS lunar radiance removal by Dark Object Subtraction. IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium, 6380–6383. https://doi.org/10.1109/IGARSS.2019.8898906&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Stathakis, D., &amp;amp; Liakos, L. (2018, July 9). An improved DMSP/OLS times series based on adjusted-data. 38th Annual EARSeL Symposium, Earth Observation Supporting Sustainability Research.&lt;/p&gt;
-&lt;p&gt;Stathakis, D. N., Liakos, L., Chalkias, C., &amp;amp; Pafi, M. (2018). A photopollution index based on weighted cumulative visibility to night lights. In N. Chrysoulakis, T. Erbertseder, &amp;amp; Y. Zhang (Eds.), Remote Sensing Technologies and Applications in Urban Environments III (p. 3). SPIE. https://doi.org/10.1117/12.2500212&lt;/p&gt;</content><category term="Δημοσιέσεις-Συνέδρια"></category></entry><entry><title>Αποθετήρια κώδικα</title><link href="https://phd.geographer.gr/repositories.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/repositories.html</id><content type="html">&lt;p&gt;Αποθετήρια&lt;/p&gt;</content><category term="Αποθετήρια κώδικα"></category></entry><entry><title>Workshops</title><link href="https://phd.geographer.gr/workshops.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/workshops.html</id><content type="html">&lt;p&gt;Λιάκος, Λ.,  Σταθάκης, Δ. (2020). Γλώσσα προγραμματισμού R: υπολογισμός δεικτών με δεδομένα νυχτερινών φώτων και οπτικοποίηση σε διαγράμματα και χάρτες. HellasGI.
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stathakis, D. N., Liakos, L., Chalkias, C., &amp;amp; Pafi, M. (2018). A photopollution index based on weighted cumulative visibility to night lights. In N. Chrysoulakis, T. Erbertseder, &amp;amp; Y. Zhang (Eds.), Remote Sensing Technologies and Applications in Urban Environments III (p. 3). SPIE. https://doi.org/10.1117/12.2500212&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Δημοσιέσεις-Συνέδρια"></category></entry><entry><title>Αποθετήρια κώδικα</title><link href="https://phd.geographer.gr/repositories.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/repositories.html</id><content type="html">&lt;p&gt;Αποθετήρια&lt;/p&gt;</content><category term="Αποθετήρια κώδικα"></category></entry><entry><title>Workshops</title><link href="https://phd.geographer.gr/workshops.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/workshops.html</id><content type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Λιάκος, Λ.,  Σταθάκης, Δ. (2020). Γλώσσα προγραμματισμού R: υπολογισμός δεικτών με δεδομένα νυχτερινών φώτων και οπτικοποίηση σε διαγράμματα και χάρτες. HellasGI.
 &lt;a href="https://github.com/kokkytos/hellasgi2020"&gt;github repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Λιάκος, Λ. (2019a, October 13). Raster και Raster Stack στην R με την χρήση δορυφορικών δεδομένων νυκτερινών φώτων (DMSP/OLS). FOSSCOMM 2019, Λαμία.
 &lt;a href="https://github.com/kokkytos/rworkshop"&gt;github repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Λιάκος, Λ. (2019b, June 27). Raster και Raster Stack στην R με την χρήση δορυφορικών δεδομένων νυκτερινών φώτων (DMSP/OLS), Βόλος.
 &lt;a href="https://github.com/kokkytos/rworkshop"&gt;github repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Λιάκος, Λ., Σταθάκης, Δ.(2017). Επεξεργασία δεδομένων raster GIS με R. FOSSCOMM 2017, Αθήνα.
-&lt;a href="https://github.com/kokkytos/rasterRfosscomm2017"&gt;github repository&lt;/a&gt;&lt;/p&gt;</content><category term="Workshops"></category></entry></feed>
+&lt;a href="https://github.com/kokkytos/rasterRfosscomm2017"&gt;github repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Workshops"></category></entry></feed>
