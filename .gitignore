@@ -136,3 +136,13 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/ 
+
+# Pelican
+*~
+._*
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.py[cod]
+output

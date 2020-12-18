@@ -3,13 +3,13 @@
 
 AUTHOR = 'Λεωνίδας Λιάκος'
 SITENAME = 'Μοντέλα αστικής εξάπλωσης και παρακολούθηση με τηλεπισκόπηση'
-SITEURL = ''
+SITEURL = 'https://kokkytos.github.io/night-lights'
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Athens'
 
-DEFAULT_LANG = 'el'
+DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
