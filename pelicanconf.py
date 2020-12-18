@@ -19,16 +19,21 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Εργαστήριο Χωρικής Ανάλυσης, Γεωγραφικών Πληροφοριακών Συστημάτων και Θεματικής Χαρτογραφίας', 'http://gislab.gr'),
+         ('NASA Black Marble Product', 'https://blackmarble.gsfc.nasa.gov/'),
+         ('DMSP-OLS Nighttime Lights', 'https://ngdc.noaa.gov/eog/dmsp/downloadV4composites.html'),
+         ('VIIRS Day/Night Band Nighttime Lights', 'https://eogdata.mines.edu/download_dnb_composites.html'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Github', 'https://github.com/kokkytos'),
+          ('Linkedin', 'https://www.linkedin.com/'),
+          ('ResearchGate', 'https://www.researchgate.net/profile/Leonidas_Liakos'),
+          ('ORCID', 'https://orcid.org/0000-0003-1961-6940')
+)
 
 DEFAULT_PAGINATION = 10
+
+THEME = "/home/leonidas/pelican-themes/bootstrap2"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
