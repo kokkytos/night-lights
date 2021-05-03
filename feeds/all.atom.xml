@@ -37,6 +37,9 @@
 &lt;/ul&gt;
 &lt;p&gt;Eπιπλέον αποθετήρια υπάρχουν στην ενότητα &lt;a href="category/workshops.html"&gt;workshops&lt;/a&gt;.&lt;/p&gt;</content><category term="Αποθετήρια κώδικα"></category></entry><entry><title>Δημοσιέσεις-Συνέδρια</title><link href="https://phd.geographer.gr/publications.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/publications.html</id><content type="html">&lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;Stathakis, D., Liakos, L., &amp;amp; Baltas, P. (2021, July 11). Covid-19 pandemic assessment by night-lights. IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2021, Brussels, Belgium.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;Stathakis, D., &amp;amp; Liakos, L. (2020). Median Shift Lunar Correction for VIIRS. IEEE Geoscience and Remote Sensing Letters, 1–5. https://doi.org/10.1109/LGRS.2020.3007965&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -58,6 +61,10 @@
 &lt;p&gt;Stathakis, D. N., Liakos, L., Chalkias, C., &amp;amp; Pafi, M. (2018). A photopollution index based on weighted cumulative visibility to night lights. In N. Chrysoulakis, T. Erbertseder, &amp;amp; Y. Zhang (Eds.), Remote Sensing Technologies and Applications in Urban Environments III (p. 3). SPIE. https://doi.org/10.1117/12.2500212&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content><category term="Δημοσιέσεις-Συνέδρια"></category></entry><entry><title>Workshops</title><link href="https://phd.geographer.gr/workshops.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/workshops.html</id><content type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Stathakis, D., Liakos, L., &amp;amp; Baltas, P. (2021, February 21). Medium temporal scale night-lights data for detecting abnormal events. NightLights Virtual Workshop 2021. Alba Orbital. Virtual Event.
+(&lt;a href="https://www.youtube.com/watch?v=P2ZhOnMimVc"&gt;Online streaming&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Λιάκος, Λ.,  Σταθάκης, Δ. (2020). Γλώσσα προγραμματισμού R: υπολογισμός δεικτών με δεδομένα νυχτερινών φώτων και οπτικοποίηση σε διαγράμματα και χάρτες. HellasGI.
 (&lt;a href="https://github.com/kokkytos/hellasgi2020"&gt;github repository&lt;/a&gt;)&lt;/p&gt;
