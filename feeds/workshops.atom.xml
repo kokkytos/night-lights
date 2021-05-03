@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Μοντέλα αστικής εξάπλωσης και παρακολούθηση με τηλεπισκόπηση - Workshops</title><link href="https://phd.geographer.gr/" rel="alternate"></link><link href="https://phd.geographer.gr/feeds/workshops.atom.xml" rel="self"></link><id>https://phd.geographer.gr/</id><updated>2020-12-17T00:00:00+02:00</updated><entry><title>Workshops</title><link href="https://phd.geographer.gr/workshops.html" rel="alternate"></link><published>2020-12-17T00:00:00+02:00</published><updated>2020-12-17T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-17:/workshops.html</id><content type="html">&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Stathakis, D., Liakos, L., &amp;amp; Baltas, P. (2021, February 21). Medium temporal scale night-lights data for detecting abnormal events. NightLights Virtual Workshop 2021. Alba Orbital. Virtual Event.
+&lt;p&gt;Stathakis, Demetris, Leonidas Liakos, and Pavlos Baltas. 2021. “Medium Temporal Scale Night-Lights Data for Detecting Abnormal Events.” In NightLights Virtual Workshop 2021. Virtual Event: Alba Orbital.
 (&lt;a href="https://www.youtube.com/watch?v=P2ZhOnMimVc"&gt;Online streaming&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Λιάκος, Λ.,  Σταθάκης, Δ. (2020). Γλώσσα προγραμματισμού R: υπολογισμός δεικτών με δεδομένα νυχτερινών φώτων και οπτικοποίηση σε διαγράμματα και χάρτες. HellasGI.
+&lt;p&gt;Λιάκος, Λεωνίδας, and Δημήτρης Σταθάκης. 2020. “Γλώσσα Προγραμματισμού R: Υπολογισμός Δεικτών Με Δεδομένα Νυχτερινών Φώτων Και Οπτικοποίηση Σε Διαγράμματα Και Χάρτες.” In HellasGI. Αθήνα.
 (&lt;a href="https://github.com/kokkytos/hellasgi2020"&gt;github repository&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Λιάκος, Λ. (2019a, October 13). Raster και Raster Stack στην R με την χρήση δορυφορικών δεδομένων νυκτερινών φώτων (DMSP/OLS). FOSSCOMM 2019, Λαμία.
+&lt;p&gt;Λιάκος, Λεωνίδας. 2019a. “Raster και Raster Stack στην R με την χρήση δορυφορικών δεδομένων νυκτερινών φώτων (DMSP/OLS).” In Workshop. Βόλος: Εργαστήριο Χωρικής Ανάλυσης, Γεωγραφικών Πληροφοριακών Συστημάτων και Θεματικής Χαρτογραφίας.
 (&lt;a href="https://github.com/kokkytos/rworkshop"&gt;github repository&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Λιάκος, Λ. (2019b, June 27). Raster και Raster Stack στην R με την χρήση δορυφορικών δεδομένων νυκτερινών φώτων (DMSP/OLS), Βόλος.
+&lt;p&gt;Λιάκος, Λεωνίδας. 2019b. “Raster και Raster Stack στην R με την χρήση δορυφορικών δεδομένων νυκτερινών φώτων (DMSP/OLS).” In FOSSCOMM 2019. Λαμία.
 (&lt;a href="https://github.com/kokkytos/rworkshop"&gt;github repository&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Λιάκος, Λ., Σταθάκης, Δ.(2017). Επεξεργασία δεδομένων raster GIS με R. FOSSCOMM 2017, Αθήνα.
+&lt;p&gt;Σταθάκης, Δημήτρης, and Λεωνίδας Λιάκος. 2018. “Επεξεργασία Δεδομένων Raster GIS Με R.” In FOSSCOMM 2018. Αθήνα: Χαροκόπειο Πανεπιστήμιο.
 (&lt;a href="https://github.com/kokkytos/rasterRfosscomm2017"&gt;github repository&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content><category term="Workshops"></category></entry></feed>
