@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Μοντέλα αστικής εξάπλωσης και παρακολούθηση με τηλεπισκόπηση - Tools</title><link href="https://phd.geographer.gr/" rel="alternate"></link><link href="https://phd.geographer.gr/feeds/tools.atom.xml" rel="self"></link><id>https://phd.geographer.gr/</id><updated>2020-12-16T00:00:00+02:00</updated><entry><title>Tools</title><link href="https://phd.geographer.gr/Tools.html" rel="alternate"></link><published>2020-12-16T00:00:00+02:00</published><updated>2020-12-16T00:00:00+02:00</updated><author><name>Λεωνίδας Λιάκος</name></author><id>tag:phd.geographer.gr,2020-12-16:/Tools.html</id><content type="html">&lt;p&gt;Η εκπόνηση της διδακτορικής διατριβής έχει γίνει με &lt;a href="https://mathe.ellak.gr/?page_id=132"&gt;Ελεύθερο Λογισμικό/Λογισμικό Ανοικτού Κώδικα (ΕΛ/ΛΑΚ)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Χρησιμοποιήθηκαν τα παρακάτω λογισμικά (και μια σειρά συμπληρωματικών πακέτων):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.debian.org/releases/"&gt;Gnu/Linux Debian Stable&lt;/a&gt;: Λειτουργικό σύστημα.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gnu.org/software/emacs/"&gt;emacs&lt;/a&gt;/&lt;a href="https://orgmode.org/"&gt;org-mode&lt;/a&gt;: για τις σημειώσεις και την συγγραφή της διατριβής.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zotero.org/"&gt;zotero&lt;/a&gt;/&lt;a href="https://github.com/jkitchin/org-ref"&gt;org-ref&lt;/a&gt;: για την διαχείριση της βιβλιογραφίας.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.latex-project.org/"&gt;latex/xelatex&lt;/a&gt;/&lt;a href="https://en.wikipedia.org/wiki/Biber_(LaTeX)"&gt;Biber&lt;/a&gt;: για την δημιουργία του τελικού κειμένου.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cran.r-project.org/"&gt;R&lt;/a&gt;/&lt;a href="https://www.rstudio.com/"&gt;rstudio&lt;/a&gt;: για την επεξεργασία των δεδομένων, την χωρική και στατιστική ανάλυση και την δημιουργία γραφημάτων και χαρτών.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.python.org/"&gt;Python&lt;/a&gt;/&lt;a href="https://www.spyder-ide.org/"&gt;Spyder&lt;/a&gt;: για την επεξεργασία των δεδομένων.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://git-scm.com/"&gt;git&lt;/a&gt;/&lt;a href="https://gitahead.github.io/gitahead.com/"&gt;GitAhead&lt;/a&gt;: για την διαχείριση εκδόσεων του κώδικα.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.giss.nasa.gov/tools/panoply/"&gt;Panoply&lt;/a&gt;: για την ανάγνωση δορυφορικών δεδομένων.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.qgis.org/en/site/"&gt;Qgis&lt;/a&gt;/&lt;a href="https://grass.osgeo.org/"&gt;GRASS GIS&lt;/a&gt;: για χωρική ανάλυση και δημιουργία χαρτών.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ganttproject.biz/"&gt;ganttproject&lt;/a&gt;: για την οργάνωση και διαχείριση του χρονοδιαγράμματος και των παραδοτέων της διατριβής. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Επιπλέον έγινε χρήση των υπηρεσιών &lt;a href="https://github.com/"&gt;github&lt;/a&gt; και &lt;a href="https://osf.io/"&gt;OSF&lt;/a&gt;.&lt;/p&gt;</content><category term="Tools"></category></entry></feed>
